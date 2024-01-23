@@ -1,0 +1,15 @@
+
+.parent_div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 200px;
+    background-color: #1194ff;
+}
+
+.child_div {
+    background-color: red;
+    height: 100px;
+    width: 100px;
+}
